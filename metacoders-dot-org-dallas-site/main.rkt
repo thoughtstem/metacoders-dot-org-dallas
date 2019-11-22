@@ -29,9 +29,14 @@
          #:locations-list (list
                            (location-courses
                             #:location-name "LOCATION 1"
-                            #:course-1 (weekend-course)))
+                            #:course-1 (weekend-course))
+                           ;(location-courses
+                           ; #:location-name "Gallaudet"
+                           ; #:course-1 (weekend-course)
+                           ; #:course-2 (weekend-course))
+                           )
           
-          )))
+         )))
 
 (define (pages)
   (list

@@ -21,4 +21,3 @@ raco website-preview
 
 This `metacoders-dot-org-dallas-site` is a package that serves as a dependency for `metacoders-dot-org-site` -- which is what produces the site at `metacoders.org`.  See https://github.com/thoughtstem/metacoders-dot-org for details about pushing that live.
 
-"# metacoders-dot-org-dallas" 

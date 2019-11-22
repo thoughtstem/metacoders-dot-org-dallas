@@ -33,7 +33,7 @@ before_install:
 - export PATH="${RACKET_DIR}/bin:${PATH}" #install-racket.sh can't set for us
 
 install:
- - raco pkg install --auto --name metacoders-dot-org-reno
+ - raco pkg install --auto --name metacoders-dot-org-dallas
 
 before_script:
 
@@ -41,9 +41,9 @@ before_script:
 # `raco pkg install --deps search-auto` to install any required
 # packages without it getting stuck on a confirmation prompt.
 script:
- - raco test -x -p metacoders-dot-org-reno
+ - raco test -x -p metacoders-dot-org-dallas
 
 after_success:
- - raco setup --check-pkg-deps --pkgs metacoders-dot-org-reno
+ - raco setup --check-pkg-deps --pkgs metacoders-dot-org-dallas
  - raco pkg install --auto cover cover-coveralls
  - raco cover -b -f coveralls -d $TRAVIS_BUILD_DIR/coverage .
