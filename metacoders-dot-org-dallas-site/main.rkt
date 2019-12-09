@@ -78,10 +78,10 @@
         (city-page
          #:city-name "Dallas"
          #:banner-url "https://live.staticflickr.com/3937/33074076002_b2f829bc2d_k.jpg"
-         #:school-year-courses (school-year-courses (weekly-class-k-2nd-winter
-                                                     weekly-class-3rd-6th-winter
-                                                     weekly-class-k-2nd-spring
-                                                     weekly-class-3rd-6th-spring))
+         #:school-year-courses (school-year-courses (list (weekly-class-k-2nd-winter
+                                                           weekly-class-3rd-6th-winter
+                                                           weekly-class-k-2nd-spring
+                                                           weekly-class-3rd-6th-spring)))
          )))
 
 (define (pages)
