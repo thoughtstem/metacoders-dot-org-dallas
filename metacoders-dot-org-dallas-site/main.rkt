@@ -15,7 +15,7 @@
       #:location      "University of Dallas"
       #:address       "1845 E Northgate Dr, Irving, TX 75062"
       #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
-      #:price         185
+      #:price         210
       #:start-time    "10:00 am"
       #:end-time      "11:30 am"
       #:meeting-dates (list "2/8/2020" "2/15/2020" "2/22/2020" "2/29/2020" "3/7/2020" "3/14/2020" "3/21/2020")
@@ -32,7 +32,7 @@
       #:location      "University of Dallas"
       #:address       "1845 E Northgate Dr, Irving, TX 75062"
       #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
-      #:price         185
+      #:price         210
       #:start-time    "12:00 pm"
       #:end-time      "1:30 pm"
       #:meeting-dates (list "2/8/2020" "2/15/2020" "2/22/2020" "2/29/2020" "3/7/2020" "3/14/2020" "3/21/2020")
@@ -49,7 +49,7 @@
       #:location      "University of Dallas"
       #:address       "1845 E Northgate Dr, Irving, TX 75062"
       #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
-      #:price         185
+      #:price         210
       #:start-time    "10:00 am"
       #:end-time      "11:30 am"
       #:meeting-dates (list "3/28/2020" "4/4/2020" "4/18/2020" "4/25/2020" "5/2/2020" "5/23/2020" "5/30/2020")
@@ -66,7 +66,7 @@
       #:location      "University of Dallas"
       #:address       "1845 E Northgate Dr, Irving, TX 75062"
       #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
-      #:price         185
+      #:price         210
       #:start-time    "12:00 pm"
       #:end-time      "1:30 pm"
       #:meeting-dates (list "3/28/2020" "4/4/2020" "4/18/2020" "4/25/2020" "5/2/2020" "5/23/2020" "5/30/2020")
