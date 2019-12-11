@@ -59,7 +59,7 @@
 (define (weekly-class-3rd-6th-spring) 
   (course
       #:topic         "Battle Arena Video Game Design"
-      #:sku           "sku_GKyOGxBVMGvuUL"
+      #:sku           "sku_GKwqAEKi9EPy5Y"
       #:image-url     "https://www.thoughtstem.com/img/stock-photos/after-school/battle-arena.gif"
       #:description   "In our Spring Saturday class, students will design & code their very own 2D battle arena video games. What's a battle arena game? Think Fortnite! Students will learn how to code their characters' weapons and armor, create enemies to battle, and program potions that will give their character special capabilities. At the end of this course, students will participate in a Game Jam where they'll work together to create their own unique games."
       #:grade-range     "3rd-6th"
