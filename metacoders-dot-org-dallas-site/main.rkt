@@ -77,7 +77,7 @@
   (page index.html
         (city-page
          #:city-name "Dallas, TX"
-         #:banner-url "https://live.staticflickr.com/3937/33074076002_b2f829bc2d_k.jpg"
+         #:banner-url (prefix/pathify dallas-banner-path)
          #:school-year-courses (list (weekly-class-k-2nd-winter)
                                                            (weekly-class-3rd-6th-winter)
                                                            (weekly-class-k-2nd-spring)
