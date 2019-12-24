@@ -10,7 +10,8 @@
 (require metacoders-dot-org-dallas-lib
          metacoders-dot-org-lib)
 
-;USE RANDOM ID GENERATOR for skus!
+; If you are creating a brand new course,
+; run (generate-random-sku) to generate a unique sku id
 (define (weekly-class-k-2nd-winter) 
   (course
       #:topic         "Awesome Animals!"
