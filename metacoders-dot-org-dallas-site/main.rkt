@@ -1,18 +1,13 @@
 #lang at-exp racket
 
-(provide pages index
-         weekly-class-k-2nd-winter
-         weekly-class-3rd-6th-winter
-         weekly-class-k-2nd-spring
-         weekly-class-3rd-6th-spring
-         )
+(provide pages index)
 
 (require metacoders-dot-org-dallas-lib
          metacoders-dot-org-lib)
 
 ; If you are creating a brand new course,
 ; run (generate-random-sku) to generate a unique sku id
-(define (weekly-class-k-2nd-winter) 
+(define/provide-course weekly-class-k-2nd-winter
   (course
       #:topic         "Awesome Animals!"
       #:sku           "sku_GKwkIwx91IPMXI"
@@ -29,7 +24,7 @@
       #:status        'open
    ))
    
-(define (weekly-class-3rd-6th-winter) 
+(define/provide-course weekly-class-3rd-6th-winter
   (course
       #:topic         "Survival Video Game Design"
       #:sku           "sku_GKwnmG9nqoTxFR"
@@ -46,7 +41,7 @@
       #:status 'open
    ))
 
-(define (weekly-class-k-2nd-spring) 
+(define/provide-course weekly-class-k-2nd-spring
   (course
       #:topic         "Point & Click Games!"
       #:sku           "sku_GKwptVWdmQinKg"
@@ -63,7 +58,7 @@
       #:status 'open
    ))
    
-(define (weekly-class-3rd-6th-spring) 
+(define/provide-course weekly-class-3rd-6th-spring
   (course
       #:topic         "Battle Arena Video Game Design"
       #:sku           "sku_GKwqAEKi9EPy5Y"
@@ -85,10 +80,10 @@
         (city-page
          #:city-name "Dallas, TX"
          #:banner-url (prefix/pathify dallas-banner-path)
-         #:school-year-courses (list (weekly-class-k-2nd-winter)
-                                                           (weekly-class-3rd-6th-winter)
-                                                           (weekly-class-k-2nd-spring)
-                                                           (weekly-class-3rd-6th-spring))
+         #:school-year-courses (list weekly-class-k-2nd-winter
+                                     weekly-class-3rd-6th-winter
+                                     weekly-class-k-2nd-spring
+                                     weekly-class-3rd-6th-spring)
          )))
 
 (define (pages)
