@@ -84,6 +84,7 @@
         (city-page
          #:city-name "Dallas, TX"
          #:banner-url (prefix/pathify dallas-banner-path)
+         #:alt-tag "City of Dallas, Texas with a view of downtown on a cloudy day"
          #:school-year-courses (list weekly-class-k-2nd-winter
                                      weekly-class-3rd-6th-winter
                                      weekly-class-k-2nd-spring
