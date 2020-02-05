@@ -112,6 +112,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
         #:price         345
+        #:discount      34.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -130,6 +131,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
         #:price         265
+        #:discount      26.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -148,6 +150,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
         #:price         345
+        #:discount      34.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -166,6 +169,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
         #:price         265
+        #:discount      26.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -184,6 +188,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
         #:price         345
+        #:discount      34.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -202,6 +207,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
        #:price         265
+       #:discount      26.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -220,6 +226,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
         #:price         345
+        #:discount      34.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -238,6 +245,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
        #:price         265
+       #:discount      26.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -256,6 +264,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
         #:price         345
+        #:discount      34.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -274,6 +283,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
        #:price         265
+       #:discount      26.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -293,6 +303,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
         #:price         345
+        #:discount      34.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -311,6 +322,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
        #:price         265
+       #:discount      26.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -329,6 +341,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
         #:price         345
+        #:discount      34.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -347,6 +360,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
        #:price         265
+       #:discount      26.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -365,6 +379,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
         #:price         345
+        #:discount      34.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -383,6 +398,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
        #:price         265
+       #:discount      26.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -401,6 +417,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
         #:price         345
+        #:discount      34.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -418,6 +435,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
        #:price         265
+       #:discount      26.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -435,6 +453,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
         #:price         345
+        #:discount      34.5
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -452,6 +471,7 @@
         #:address       "1845 E Northgate Dr, Irving, TX 75062"
         #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
        #:price         265
+       #:discount      26.5
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
