@@ -18,7 +18,7 @@
       #:address       "1845 E Northgate Dr, Irving, TX 75062"
       #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
       #:price         200
-      #:discount      20
+      ;#:discount      20
       #:start-time    "10:00am"
       #:end-time      "11:30am"
       #:meeting-dates (list "2/22/2020" "2/29/2020" "3/7/2020" "3/14/2020" "3/21/2020" "3/28/2020")
@@ -36,7 +36,7 @@
       #:address       "1845 E Northgate Dr, Irving, TX 75062"
       #:address-link  "https://goo.gl/maps/TBgDvXgp5esLrKLw7"
       #:price         200
-      #:discount      20
+      ;#:discount      20
       #:start-time    "12:00pm"
       #:end-time      "1:30pm"
       #:meeting-dates (list "2/22/2020" "2/29/2020" "3/7/2020" "3/14/2020" "3/21/2020" "3/28/2020")
